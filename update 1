@@ -58,7 +58,7 @@ They are located:In the fruit bowl.In front of the fridge.In the freezer.Inside 
       "description": "Put Dishes Away
 Objective: Place the dishes in the kitchen cupboards
 Instruction: There are 5 plates on the counter, 5 glasses on the counter, and 3 glasses in the sink.
-One at a time, pick the dishes up and place them into the black cabinets.
+One at a time pick the dishes up and place them into the black cabinets.
 The glasses are delicate, so take short steps as to not build up too much momentum."
 
     }
